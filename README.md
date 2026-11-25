@@ -50,7 +50,9 @@ Data preparation was performed using **Power Query**.
 - **Star Schema Architecture:** Built central fact/event tables connected via single-direction, one-to-many (`1:*`) relationships to dedicated Dimension tables (`Dim_Employee`, `Dim_Department`, `Dim_Position`, `Dim_Termination_Reason`).
 - **Dedicated Date Table:** Created a continuous standalone **`Date Table`** marked as the official Date Table to power seamless period-over-period tracking across **Headcount**, **Retention (%)**, and **Turnover** metrics.
 
-![Star_Schema Model](https://github.com/pforphu/HR-Analysis---Power-BI-/blob/main/Pics/Star%20Schema%20Model.png)
+<div align="left">
+  <img src="https://github.com/pforphu/HR-Analysis---Power-BI-/blob/main/Pics/Star%20Schema%20Model.png?raw=true" alt="Star_Schema Model" width="550" />
+</div>
 
 ## Key DAX Measures & Analytical Pillars
 
