@@ -1,4 +1,4 @@
-# HR-Analysis---Power-BI-
+# HR Workforce, Retention & Turnover Analysis dashboard built in Power BI.
 
 ![Intro_Page](https://github.com/pforphu/HR-Analysis---Power-BI-/blob/main/Pics/Intro.png)
 
