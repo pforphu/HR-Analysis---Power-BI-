@@ -28,7 +28,7 @@ The objective of this project is to transform raw employee lifecycle data into a
 
 ---
 
-## 🎛️ Interactive Dashboard Features
+## Interactive Dashboard Features
 - **Dynamic Cross-Filtering & Slicers:** Filter seamlessly across time periods (`Date Table`), departments, job levels, and job positions.
 - **Page Navigation & Drill-Downs:** Switch between Workforce Overview, Retention Analysis, and Turnover Diagnostics views, or drill down from department level to specific job positions.
 - **Custom Tooltips:** Hover over key KPIs and visuals to inspect secondary context (e.g., retention %, exit counts, and departmental benchmarks) without cluttering the main canvas.
