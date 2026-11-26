@@ -3,6 +3,12 @@
 ![Intro_Page](https://github.com/pforphu/HR-Analysis---Power-BI-/blob/main/Pics/Intro.png)
 
 ![Overview_page](https://github.com/pforphu/HR-Analysis---Power-BI-/blob/main/Pics/Overview.png)
+
+<p>
+<a href="https://app.powerbi.com/reportEmbed?reportId=3046882f-1fc1-46f9-8658-235042adcc34&autoAuth=true&ctid=c06678ed-6ec9-4d2c-917f-a1d1b7abfd18" target="_blank">
+View Project on PowerBI Service →
+</a>
+</p>
 ---
 
 ## 📌 Project Goal & Key Business Questions
